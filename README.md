@@ -47,8 +47,8 @@ This project was part of my JavaScript coursework, aimed at strengthening my und
 
 ## 🔗 Connect with Me Feel free to connect or share your feedback! 😊
 
-**Github**: https://github.com/puneethVnaik/
+**Github**: https://github.com/Preethesh26
 
-**Linkedin**: https://www.linkedin.com/in/puneeth-v-naik/
+**Linkedin**: https://www.linkedin.com/in/preethesh26/
 
-**Try it out**: https://puneethvnaik.github.io/Tic-Tac-Toe/
+**Try it out**: https://preethesh26.github.io/Tic_Tac_Toe-Game/
