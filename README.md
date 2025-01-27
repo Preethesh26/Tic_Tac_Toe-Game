@@ -6,7 +6,7 @@ This project is a **JavaScript-based implementation** of the classic **Tic-Tac-T
 
 ## ✨ Features  
 
-- **Two-player gameplay**: Alternate turns between “O” and “X.”  
+- **Two-player gameplay**: Alternate turns between “O” and “X.” 
 - **Winner Detection**: Predefined winning patterns are checked to declare a winner.  
 - **Draw Detection**: Announces a draw if all boxes are filled without a winner.  
 - **Reset/New Game**: Allows players to restart the game with ease.  
